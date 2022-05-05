@@ -1,0 +1,1 @@
+# Personal project playing with running rust on the Pi Pico
